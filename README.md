@@ -2,10 +2,11 @@
 - 🔭 Desenvolvedor Junior...
 - 🌱 Evoluindo a cada dia, com projetos pessoais e cursos...
 - ⚡ Amante do surf, luta e tecnologia...
-<div align="center">
+<div align="left">
   <a href="https://github.com/Giovanni-Shiroma">   
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanni-Shiroma&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-Shiroma&layout=compact&langs_count=7&theme=highcontrast"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovanni-Shiroma&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovanni-Shiroma&layout=compact&langs_count=7&theme=highcontrast"/>  
+  </a>
 </div>
 
   
